@@ -1,0 +1,53 @@
+Products
+Get Products - Done.
+Add a product - Done.
+Get one product - Done.
+Filter product - Done.
+Rate product - Done
+Add items to cart - Done
+Get items of cart - Done
+Remove items from cart - Done
+
+UserController
+Signup - Email, Name, Password, TypeOfUser(customer, seller)
+Signin - Email, Password
+
+
+1. Find avg price of a category
+{
+    _id: Cat,
+    averagePrice: 50000
+}
+
+2. Find the average rating of a product
+// mongoshell commands
+db.products.aggregate([
+    // 1. Create separate documents for all ratings in the ratings array (destructure the array)
+    {
+        $unwind: "$ratings"
+    },
+    // 2. Group rating per product and get average
+    {
+        $group: {
+            _id: "$name",
+            averageRating: {$avg: "$ratings.rating"}
+        }
+    }
+])
+
+db.products.aggregate([
+    // Stage 1: Project name of product and count of rating - another approach rather than grouping
+    {
+        $project:{name:1, countOfRating: {
+            $cond: {if: {$isArray: "$ratings"},
+            then: {$size: "$ratings"}, else: 0}}}
+    }, 
+    {
+        // stage 2: sort the collection
+        $sort: {countOfRating: -1}
+    },
+    {
+        // limit to just one item in result 
+        $limit: 1
+    }
+])

@@ -1,0 +1,196 @@
+{"level":"info","message":"/api/cartItems - {}","service":"request-loggin"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"seller@ecom.com\",\"password\":\"Password1\",\"name\":\"Seller User\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"seller@ecom.com\",\"password\":\"Password1\",\"name\":\"Seller User\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"seller2@ecom.com\",\"password\":\"Password1\",\"name\":\"Seller User 2\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"seller2@ecom.com\",\"password\":\"Password1\",\"name\":\"Seller User 2\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"seller3@ecom.com\",\"password\":\"Password1\",\"name\":\"Seller User 3\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"seller4@ecom.com\",\"password\":\"Password1\",\"name\":\"Seller User 4\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"seller4@ecom.com\",\"password\":\"Password1\",\"name\":\"Seller User 4\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"seller4@ecom.com\",\"password\":\"Password1\",\"name\":\"Seller User 4\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"seller4@ecom.com\",\"password\":\"Password1\",\"name\":\"Seller User 4\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"seller5@ecom.com\",\"password\":\"Password1\",\"name\":\"Seller User 5\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/cart/products - {}","service":"request-logging"}
+{"level":"info","message":"/api/cart/products/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/ - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/6801144b4ff345883152f03c - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/6801144b4ff345883152f03c - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/filter?minPrice=20000 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/filter?maxPrice=20000 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/filter?maxPrice=20000 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products - {}","service":"request-logging"}
+{"level":"info","message":"/api/products - {}","service":"request-logging"}
+{"level":"info","message":"/api/products - {}","service":"request-logging"}
+{"level":"info","message":"/api/products?minPrice=15000&maxPrice=30000 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/filter?minPrice=15000&maxPrice=30000 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate?productID=681ad93f8a644abdf84ba477&rating=4 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate?productID=681ad93f8a644abdf84ba477&rating=4 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate?productID=681ad93f8a644abdf84ba477&rating=4 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate?productID=681ad93f8a644abdf84ba477&rating=4 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate?productID=681ad93f8a644abdf84ba477&rating=4 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate?productID=681ad93f8a644abdf84ba477&rating=4 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate?productID=681ad93f8a644abdf84ba477&rating=4 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate?productID=681ad93f8a644abdf84ba477&rating=4 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate?productID=681ad93f8a644abdf84ba477&rating=4 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate - {\"productID\":\"681ad93f8a644abdf84ba477\",\"rating\":3.2}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate - {\"productID\":\"681ad93f8a644abdf84ba477\",\"rating\":3.2}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate - {\"productID\":\"681ad93f8a644abdf84ba477\",\"rating\":3}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate - {\"productID\":\"681ad93f8a644abdf84ba477\",\"rating\":3}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate - {\"productID\":\"681ad93f8a644abdf84ba477\",\"rating\":3}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate - {\"productID\":\"681ad9368a644abdf84ba476\",\"rating\":3}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate - {\"productID\":\"681ad9368a644abdf84ba476\",\"rating\":4}","service":"request-logging"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"681ad93f8a644abdf84ba477\",\"quantity\":2}","service":"request-logging"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"681ad93f8a644abdf84ba477\",\"quantity\":2}","service":"request-logging"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"681ad93f8a644abdf84ba477\",\"quantity\":2}","service":"request-logging"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"681ad93f8a644abdf84ba477\",\"quantity\":2}","service":"request-logging"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"681ad93f8a644abdf84ba477\",\"quantity\":2}","service":"request-logging"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"681ad93f8a644abdf84ba477\",\"quantity\":2}","service":"request-logging"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"681ad93f8a644abdf84ba477\",\"quantity\":2}","service":"request-logging"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"681ad93f8a644abdf84ba477\",\"quantity\":2}","service":"request-logging"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"681ad93f8a644abdf84ba477\",\"quantity\":2}","service":"request-logging"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"681ad93f8a644abdf84ba477\",\"quantity\":2}","service":"request-logging"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"681ad93f8a644abdf84ba477\",\"quantity\":2}","service":"request-logging"}
+{"level":"info","message":"/api/cartItems/6820950fc8df378b18b61a11 - {\"productID\":\"681ad93f8a644abdf84ba477\",\"quantity\":2}","service":"request-logging"}
+{"level":"info","message":"/api/cartItems/6820950fc8df378b18b61a11 - {\"productID\":\"681ad93f8a644abdf84ba477\",\"quantity\":2}","service":"request-logging"}
+{"level":"info","message":"/api/cartItems/6820950fc8df378b18b61a11 - {\"productID\":\"681ad93f8a644abdf84ba477\",\"quantity\":2}","service":"request-logging"}
+{"level":"info","message":"/api/cartItems/6820950fc8df378b18b61a11 - {\"productID\":\"681ad93f8a644abdf84ba477\",\"quantity\":2}","service":"request-logging"}
+{"level":"info","message":"/api/cartItems/6820950fc8df378b18b61a11 - {\"productID\":\"681ad93f8a644abdf84ba477\",\"quantity\":2}","service":"request-logging"}
+{"level":"info","message":"/api/cartItems/6820950fc8df378b18b61a11 - {\"productID\":\"681ad93f8a644abdf84ba477\",\"quantity\":2}","service":"request-logging"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"681ad93f8a644abdf84ba477\",\"quantity\":2}","service":"request-logging"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"681ad93f8a644abdf84ba477\",\"quantity\":2}","service":"request-logging"}
+{"level":"info","message":"/api/cartItems/6820999f9bee3ca45e525bb9 - {\"productID\":\"681ad93f8a644abdf84ba477\",\"quantity\":2}","service":"request-logging"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"fresh\",\"quantity\":2}","service":"request-logging"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"6801144b4ff345883152f03c\",\"quantity\":2}","service":"request-logging"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"6801144b4ff345883152f03c\",\"quantity\":3}","service":"request-logging"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"681ad9148a644abdf84ba475\",\"quantity\":3}","service":"request-logging"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"681ad9148a644abdf84ba475\",\"quantity\":3}","service":"request-logging"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"681ad9148a644abdf84ba475\",\"quantity\":3}","service":"request-logging"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"681ad9148a644abdf84ba475\",\"quantity\":3}","service":"request-logging"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"681ad9148a644abdf84ba475\",\"quantity\":3}","service":"request-logging"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"681ad9148a644abdf84ba475\",\"quantity\":3}","service":"request-logging"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"681ad9148a644abdf84ba475\",\"quantity\":3}","service":"request-logging"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"681ad9148a644abdf84ba475\",\"quantity\":3}","service":"request-logging"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"681ad9148a644abdf84ba475\",\"quantity\":3}","service":"request-logging"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"681ad9148a644abdf84ba475\",\"quantity\":3}","service":"request-logging"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"681ad9148a644abdf84ba475\",\"quantity\":3}","service":"request-logging"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"681ad9148a644abdf84ba475\",\"quantity\":3}","service":"request-logging"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"681ad9148a644abdf84ba475\",\"quantity\":3}","service":"request-logging"}
+{"level":"info","message":"/api/cartItems - {\"productID\":\"681ad93f8a644abdf84ba477\",\"quantity\":3}","service":"request-logging"}
+{"level":"info","message":"/api/products/filter?minPrice=15000&category=Cat1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/filter?minPrice=15000&category=Cat1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/filter?minPrice=90000&category=Cat1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/filter?minPrice=70000&category=Cat2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/filter?minPrice=70000&category=Cat2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/filter?minPrice=70000&category=Cat2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/filter?category=Cat2&minPrice=70000 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/filter?category=Cat2&minPrice=70000 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/filter?category=Cat2&minPrice=70000 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/filter?minPrice=70000&category=Cat1 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/filter?minPrice=70000&category=Cat2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/filter?minPrice=70000&category=Cat2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/filter?minPrice=70000&category=Cat2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/filter?minPrice=70000&category=Cat2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/filter?minPrice=70000&category=Cat2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/filter?minPrice=70000&category=Cat2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/filter?minPrice=70000&category=Cat2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/filter?minPrice=70000&category=Cat2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/filter?minPrice=70000&category=Cat2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/filter?minPrice=70000&category=%22Cat2%22 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/filter?minPrice=70000&category=Cat2 - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/filter?minPrice=70000&category=[%27Cat2%27,%20%27Cat1%27] - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/filter?minPrice=70000&category=[%27Cat2%27,%20%27Cat1%27] - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/filter?minPrice=70000&category=[%27Cat2%27,%20%27Cat1%27] - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/filter?minPrice=70000&category=[%27Cat2%27,%20%27Cat1%27] - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/filter?minPrice=70000&category=[%27Cat2%27,%20%27Cat1%27] - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/filter?minPrice=70000&category=[%27Cat2%27,%20%27Cat1%27] - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/filter?minPrice=70000&category=[%27Cat2%27,%20%27Cat1%27] - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/averagePrice - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/averagePrice - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/averagePrice - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/averagePrice - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/averagePrice - {}","service":"request-logging"}
+{"level":"info","message":"/api/products/averagePrice - {}","service":"request-logging"}
+{"level":"info","message":"/api/orders - {}","service":"request-logging"}
+{"level":"info","message":"/api/orders - {}","service":"request-logging"}
+{"level":"info","message":"/api/orders - {}","service":"request-logging"}
+{"level":"info","message":"/api/orders - {}","service":"request-logging"}
+{"level":"info","message":"/api/orders - {}","service":"request-logging"}
+{"level":"info","message":"/api/orders - {}","service":"request-logging"}
+{"level":"info","message":"/api/orders - {}","service":"request-logging"}
+{"level":"info","message":"/api/orders - {}","service":"request-logging"}
+{"level":"info","message":"/api/orders - {}","service":"request-logging"}
+{"level":"info","message":"/api/orders - {}","service":"request-logging"}
+{"level":"info","message":"/api/orders - {}","service":"request-logging"}
+{"level":"info","message":"/api/orders - {}","service":"request-logging"}
+{"level":"info","message":"/api/orders - {}","service":"request-logging"}
+{"level":"info","message":"/api/orders - {}","service":"request-logging"}
+{"level":"info","message":"/api/orders - {}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"john.doe@ecom.com\",\"password\":\"Password1\",\"name\":\"John Doe\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"john.doe@ecom.com\",\"password\":\"Password1\",\"name\":\"John Doe\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"john.doe@ecom.com\",\"password\":\"Password1\",\"name\":\"John Doe\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"john.doe@ecom.com\",\"password\":\"Password1\",\"name\":\"John Doe\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"john.doe@ecom.com\",\"password\":\"Password1\",\"name\":\"John Doe\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/resetPassword - {\"newPassword\":\"Password2\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/resetPassword - {\"newPassword\":\"Password2\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"john.doe@ecom.com\",\"password\":\"Password1\",\"name\":\"John Doe\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"john.doe1@ecom.com\",\"password\":\"Password1\",\"name\":\"John Doe\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"john.doe2@ecom.com\",\"password\":\"Passw\",\"name\":\"John Doe\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"john.doe2@ecom.com\",\"password\":\"Passw\",\"name\":\"John Doe\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"john.doe2@ecom.com\",\"password\":\"Passw\",\"name\":\"John Doe\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"john.doe2@ecom.com\",\"password\":\"Password@123\",\"name\":\"John Doe\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"john.doe2@ecom.com\",\"password\":\"Password@123\",\"name\":\"John Doe\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"john.doe3@ecom.com\",\"password\":\"Password@123\",\"name\":\"John Doe\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"john.doe3@ecom.com\",\"password\":\"Password@123\",\"name\":\"John Doe\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"john.doe3@ecom.com\",\"password\":\"Password@123\",\"name\":\"John Doe\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"john.doe3@ecom.com\",\"password\":\"Pass\",\"name\":\"John Doe\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup - {\"email\":\"john.doe4@ecom.com\",\"password\":\"Pass\",\"name\":\"John Doe\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate - {\"productID\":\"6801144b4ff345883152f03c\",\"rating\":4}","service":"request-logging"}
+{"level":"info","message":"/api/products/rate - {\"productID\":\"681ad9368a644abdf84ba476\",\"rating\":4}","service":"request-logging"}
+{"level":"info","message":"/api/products - {\"name\":\"Amazon Kindle\",\"price\":15000,\"description\":\"E-book Reader by Amazon\",\"categories\":\"688463d81d20ad30f7c10822, 688463d81d20ad30f7c10824\"}","service":"request-logging"}
+{"level":"info","message":"/api/products - {\"name\":\"Amazon Kindle\",\"price\":15000,\"description\":\"E-book Reader by Amazon\",\"categories\":\"688463d81d20ad30f7c10822, 688463d81d20ad30f7c10824\"}","service":"request-logging"}
+{"level":"info","message":"/api/products - {\"name\":\"Amazon Kindle\",\"price\":15000,\"description\":\"E-book Reader by Amazon\",\"categories\":\"688463d81d20ad30f7c10822, 688463d81d20ad30f7c10824\"}","service":"request-logging"}
+{"level":"info","message":"/api/products - {\"name\":\"Amazon Kindle\",\"price\":15000,\"description\":\"E-book Reader by Amazon\",\"categories\":\"688463d81d20ad30f7c10822, 688463d81d20ad30f7c10824\"}","service":"request-logging"}
+{"level":"info","message":"/api/products - {\"name\":\"Amazon Kindle\",\"price\":15000,\"description\":\"E-book Reader by Amazon\",\"categories\":\"688463d81d20ad30f7c10822, 688463d81d20ad30f7c10824\"}","service":"request-logging"}
+{"level":"info","message":"/api/likes - {\"type\":\"Product\",\"id\":\"6801144b4ff345883152f03c\"}","service":"request-logging"}
+{"level":"info","message":"/api/likes - {\"type\":\"Product\",\"id\":\"6801144b4ff345883152f03c\"}","service":"request-logging"}
+{"level":"info","message":"/api/likes - {\"type\":\"Product\",\"id\":\"6801144b4ff345883152f03c\"}","service":"request-logging"}
+{"level":"info","message":"/api/likes - {\"type\":\"Product\",\"id\":\"6801144b4ff345883152f03c\"}","service":"request-logging"}
+{"level":"info","message":"/api/likes - {\"type\":\"Product\",\"id\":\"6801144b4ff345883152f03c\"}","service":"request-logging"}
+{"level":"info","message":"/api/likes - {\"type\":\"Product\",\"id\":\"6801144b4ff345883152f03c\"}","service":"request-logging"}
+{"level":"info","message":"/api/likes - {\"type\":\"Product\",\"id\":\"6801144b4ff345883152f03c\"}","service":"request-logging"}
+{"level":"info","message":"/api/likes - {\"type\":\"Product\",\"id\":\"6801144b4ff345883152f03c\"}","service":"request-logging"}
+{"level":"info","message":"/api/likes - {\"type\":\"Product\",\"id\":\"6801144b4ff345883152f03c\"}","service":"request-logging"}
+{"level":"info","message":"/api/likes?id=6801144b4ff345883152f03c&type=Product - {\"type\":\"Product\",\"id\":\"6801144b4ff345883152f03c\"}","service":"request-logging"}
+{"level":"info","message":"/api/likes - {\"type\":\"Product\",\"id\":\"6801144b4ff345883152f03c\"}","service":"request-logging"}
+{"level":"info","message":"/api/likes - {\"type\":\"Product\",\"id\":\"6801144b4ff345883152f03c\"}","service":"request-logging"}
+{"level":"info","message":"/api/likes - {\"type\":\"Product\",\"id\":\"6801144b4ff345883152f03c\"}","service":"request-logging"}
+{"level":"info","message":"/api/likes?id=6801144b4ff345883152f03c&type=Product - {\"type\":\"Product\",\"id\":\"6801144b4ff345883152f03c\"}","service":"request-logging"}
+{"level":"info","message":"/api/likes?id=6801144b4ff345883152f03c&type=Product - {\"type\":\"Product\",\"id\":\"6801144b4ff345883152f03c\"}","service":"request-logging"}
+{"level":"info","message":"/api/likes?id=6801144b4ff345883152f03c&type=Product - {\"type\":\"Product\",\"id\":\"6801144b4ff345883152f03c\"}","service":"request-logging"}
+{"level":"info","message":"/api/likes?id=6801144b4ff345883152f03c&type=Product - {\"type\":\"Product\",\"id\":\"6801144b4ff345883152f03c\"}","service":"request-logging"}
